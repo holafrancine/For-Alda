@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "ALDA — The Librarian",
+  "short_name": "ALDA Librarian",
+  "description": "A local-first file and knowledge library. Francine owns the keys.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fa",
+  "theme_color": "#111a31",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
